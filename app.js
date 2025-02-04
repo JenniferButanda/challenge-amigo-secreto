@@ -9,7 +9,7 @@ if (nombre.trim() === '') {
 }
 
     amigos.push(nombre);
-    console.log(amigos);
+    //console.log(amigos);
     document.getElementById('amigo').value='';
 
     mostrarAmigoEnLista();
