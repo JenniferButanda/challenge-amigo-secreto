@@ -1,7 +1,14 @@
 let amigos = [];
 
-function clickAñadir() {
+function agregarAmigo() {
     let nombre = document.getElementById('amigo').value;
-    return amigos.push;
+
+if (nombre.trim() === '') {
+    alert("Por favor, inserte un nombre");
+    return;
+}
+
+    amigos.push(nombre);
     console.log(amigos);
+    document.getElementById('amigo').value='';
 }
