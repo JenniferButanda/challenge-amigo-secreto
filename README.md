@@ -19,6 +19,12 @@
 1. Clona este repositorio en tu computadora.
 2. Abre el archivo index.html en tu navegador.
 
+<h2>Dependencias</h2>
+
+<p>
+  No se requiere instalar ninguna librería, basta con clonar/descargar todos los archivos de este repositorio.
+</p>
+
 <h2>¿Cómo funciona la aplicaión?</h2>
 
 1. Agrega a los participantes del sorteo, escribiendo en la cajita uno por uno y dando click en el botón "Añadir".
